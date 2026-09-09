@@ -9,5 +9,5 @@ I'm currently working on the Medline Operations Navigator.
 **My Goal This Cycle:** I would like to be able to ensure a clear concise yet effective final proposal while improving my ability to present confidently.
 
 **Reach me @**
-+[my gmail account](mailto:mmack@icstars.com
++[my gmail account](mailto:mmack@icstars.com)
 
