@@ -1,6 +1,8 @@
+
 <div>
   <img src="https//github.com/myiamack.png" width="150" />
-# Hi, my name is Myia Mack
+  
+<h1>Hi, my name is Myia Mack</h1>
 </div>
 I'm a Cycle 60 intern at i.c.stars.
 
