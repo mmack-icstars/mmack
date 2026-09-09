@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://github.com/mmack-icstars.png" width="150" />
   
@@ -11,7 +10,12 @@ I'm currently working on the Medline Operations Navigator.
 **Currently Building:** Project for Medline
 
 **My Goal This Cycle:** I would like to be able to ensure a clear concise yet effective final proposal while improving my ability to present confidently.
-
+<details>
+  <summary>Developing Skills</summary>
++ Javascript
++ CSS Code 
++ HTML
+</details>
 **Reach me @**
 
 +[My Gmail Account](mailto:mmack@icstars.com)
