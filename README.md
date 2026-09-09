@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https//github.com/mmack.png" width="150" />
+  <img src="https//github.com/mmack-icstars.png" width="150" />
   
 <h1>Hi, my name is Myia Mack</h1>
 </div>
