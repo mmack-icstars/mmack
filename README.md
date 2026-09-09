@@ -6,4 +6,8 @@ I'm currently working on the Medline Operations Navigator.
 
 **Currently Building:** Project for Medline
 
-**My Goal This Cycle:** I would like to be able to ensure clear concise yet effective final proposal while improving my ability to present confidently.
+**My Goal This Cycle:** I would like to be able to ensure a clear concise yet effective final proposal while improving my ability to present confidently.
+
+**Reach me @**
++[my gmail account](mailto:mmack@icstars.com
+
