@@ -11,4 +11,5 @@ I'm currently working on the Medline Operations Navigator.
 **Reach me @**
 
 +[my gmail account](mailto:mmack@icstars.com)
++[My Linkedin Profile](https://www.linkedin.com/in/myia-mack-a96819435/)
 
